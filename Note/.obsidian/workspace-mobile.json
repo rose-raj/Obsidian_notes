@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Arch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "Arch"
             }
           }
         ]
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Arch.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,10 +153,10 @@
   },
   "active": "030d2db20c16090b",
   "lastOpenFiles": [
+    "Main.md",
     "Git.md",
     "Arch.md",
     "Cloud.md",
-    "Main.md",
     "Programming.md",
     "Local.md",
     "OS.md",
