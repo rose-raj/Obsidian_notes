@@ -1,3 +1,4 @@
+#arch 
 To open and connect proton VPN with out manual entry:
 
 step 1: create a credentials.txt  witch should contains  the username and pass-key provided by the proton VPN to connect via CLI
