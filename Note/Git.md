@@ -20,6 +20,8 @@
 ## setting up cloud repo
 
 1. `git remote add orgin <your git hub link>` this will create a connection to your remote repo
-2. `git branch -M main` this will make the current working branch to main
-3. `git push -u orgin main` this will upload all the files  that has been tracked to git 
-4. `git pull` to sync local with cloud 
+2. `git remote -v` to show the current URL (repo)
+3. `git remote set-url orgin <new_repo_url>` for updating the URL (repo)
+4. `git branch -M main` this will make the current working branch to main
+5. `git push -u orgin main` this will upload all the files  that has been tracked to git 
+6. `git pull` to sync local with cloud 
