@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "DBMS/TYPES OF DBMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "TYPES OF DBMS"
+            }
+          },
+          {
+            "id": "8d5485cbd84fd101",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "77401084052d8692",
@@ -170,15 +180,24 @@
   },
   "active": "afd90f8f3c46c210",
   "lastOpenFiles": [
-    "Windows.md",
+    "DBMS/Instance and Schema.md",
+    "DBMS/TYPES OF DBMS.md",
+    "Untitled",
+    "Untitled.md",
+    "DBMS/System Structures.md",
+    "DBMS/Data Independents.md",
+    "DBMS/Three Schema Architecture.md",
+    "Arch.md",
+    "DBMS/UNIT 1.md",
+    "Local.md",
     "Cloud.md",
+    "DBMS",
+    "Main.md",
+    "Windows.md",
     "User configs.md",
     "Vpn.md",
-    "Local.md",
     "Git.md",
-    "Main.md",
     "Programming.md",
-    "OS.md",
-    "Arch.md"
+    "OS.md"
   ]
 }
