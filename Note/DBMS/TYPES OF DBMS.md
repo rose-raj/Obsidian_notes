@@ -1,4 +1,4 @@
-[[UNIT 1]]
+[[DBMS/UNIT 1]]
 ####  Hierarchical databases​
   In this type of Databases the  data is in a tree structure `ie` the relation among the data is like one data (parent)  is connected to 1 or more data (child) this relationship is also called *parent-child* relation  
 

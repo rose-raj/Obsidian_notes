@@ -1,4 +1,4 @@
-[[UNIT 1]]
+[[DBMS/UNIT 1]]
 ### The Different Modules
 #### Query compiler 
 *compiles and optimize the user entered query**

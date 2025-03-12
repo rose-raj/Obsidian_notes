@@ -1,4 +1,4 @@
-[[UNIT 1]]
+[[DBMS/UNIT 1]]
 ### Schema
 The overall design of a database is called Schema 
 It includes 

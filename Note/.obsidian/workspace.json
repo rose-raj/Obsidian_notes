@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/UNIT 2.md",
+                "file": "JAVA/Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNIT 2"
+              "title": "Variables"
             }
           },
           {
@@ -181,32 +181,33 @@
   },
   "active": "d03372f68256c413",
   "lastOpenFiles": [
-    "DBMS/UNIT 2.md",
+    "JAVA/JVM.md",
+    "JAVA/Variables.md",
+    "JAVA/FRATURES OF JAVA.md",
+    "JAVA/Java Structure.md",
+    "JAVA/Java Tokens.md",
+    "JAVA/JAVA.md",
     "DBMS/Data Independents.md",
+    "DBMS/UNIT 2.md",
+    "DBMS/ER MODEL.md",
+    "DBMS/Three Schema Architecture.md",
+    "DBMS/UNIT 1.md",
+    "JAVA/UNIT 1.md",
+    "Git.md",
+    "JAVA",
     "DBMS/TYPES OF ATTRIBUTES.md",
     "DBMS/Untitled.md",
     "DBMS/ER DIAGRAMS.md",
-    "DBMS/ER MODEL.md",
     "DBMS/Entity-Relationship modeling.md",
     "DBMS/CoDD's Rules.md",
-    "DBMS/UNIT 1.md",
     "DBMS/TYPES OF DBMS.md",
     "DBMS/DBMS.md",
     "Arch.md",
-    "Git.md",
     "DBMS/Instance and Schema.md",
-    "Untitled",
     "Untitled.md",
     "DBMS/System Structures.md",
-    "DBMS/Three Schema Architecture.md",
     "Local.md",
     "Cloud.md",
-    "DBMS",
-    "Main.md",
-    "Windows.md",
-    "User configs.md",
-    "Vpn.md",
-    "Programming.md",
-    "OS.md"
+    "DBMS"
   ]
 }
