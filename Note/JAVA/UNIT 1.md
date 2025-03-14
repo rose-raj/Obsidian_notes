@@ -8,4 +8,4 @@
 - swing application - used to build apps that has a GUI (graphical interface)
 - EJB - runs on a web server and is used to develop large complex websites
 - java is secure because JVM checks for malicious code while executing 
-
+- **New** key-word is used to allocate memory at run time
