@@ -1,0 +1,3 @@
+#prog #loclal
+[[Rust]]
+[[Programming]]

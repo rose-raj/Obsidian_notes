@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "f6df34c833e553f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3f5eee89d818073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f73af441c275e0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/DBMS/UNIT 4.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UNIT 4"
+            }
+          },
+          {
+            "id": "5d4dce1de638e711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/DBMS/Introduction Concurrency control.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction Concurrency control"
+            }
+          },
+          {
+            "id": "6b064afbc4e5efb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/DBMS/Transaction and ACID properties.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transaction and ACID properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5520e27a9b88c015",
+    "type": "split",
+    "children": [
+      {
+        "id": "47937cf8f9bd8ffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235e4a212391c32d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cb86361c0ef0bb2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53cbb524ac62da44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0b51c5841c246775",
+    "type": "split",
+    "children": [
+      {
+        "id": "84d39eedcf02deb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27ad823e56d23957",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note/Vpn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vpn"
+            }
+          },
+          {
+            "id": "f992a1872043d35a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note/Vpn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vpn"
+            }
+          },
+          {
+            "id": "3364bad8124a8e80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7715cd73ee1eb2e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/Vpn.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vpn"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6b064afbc4e5efb3",
+  "lastOpenFiles": [
+    "Note/DBMS/EVALUATION OF RELATIONAL ALGEBRA.md",
+    "Note/DBMS/QUERY AND PROCESSING AND OPTIMIZATION.md",
+    "Note/DBMS/THE RELATIONAL ALGEBRA.md",
+    "Note/DBMS/Introduction Concurrency control.md",
+    "Note/DBMS/UNIT 4.md",
+    "Note/DBMS/Transaction and ACID properties.md",
+    "Note/DBMS/UNIT 3.md",
+    "Note/DBMS/CoDD's Rules.md",
+    "Note/DBMS/ER DIAGRAMS.md",
+    "Note/DBMS/ER MODEL.md",
+    "Note/DBMS/Entity-Relationship modeling.md",
+    "Note/DBMS/TYPES OF ATTRIBUTES.md",
+    "Note/DBMS/UNIT 2.md",
+    "Note/DBMS/Extras.md",
+    "Note/DBMS/System Structures.md",
+    "Note/DBMS/Three Schema Architecture.md",
+    "Note/DBMS/Data Independents.md",
+    "Note/DBMS/TYPES OF DBMS.md",
+    "Note/DBMS/Instance and Schema.md",
+    "Note/DBMS/UNIT 1.md",
+    "Note/DBMS/DBMS.md",
+    "Note/DBMS/Untitled",
+    "temp/TIME TABLE.md",
+    "2025-05-24.md",
+    "Main/User configs.md",
+    "Main/Vpn.md",
+    "Main/Windows.md",
+    "Main",
+    "Note/JAVA/Untitled",
+    "[Note/JAVA",
+    "[Note",
+    "malayalam",
+    "temp",
+    "Untitled.canvas"
+  ]
+}
