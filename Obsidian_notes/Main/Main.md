@@ -1,4 +1,4 @@
 #main 
 Topics:
-1.[[OS]]
+1.[[Obsidian_notes/Main/OS]]
 2.[[Programming]]
