@@ -1,5 +1,7 @@
 [[Operating System Services]]
 [[System calls]]
+[[System Programs]]
+
 [[OPERATING SYSTEM]]
 
 *An operating system includes multiple components that manages and controls the hardware and act as a interface between the user and the hardware*

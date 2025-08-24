@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/OS/System calls.md",
+                "file": "Obsidian_notes/Note/OS/System Programs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System calls"
+              "title": "System Programs"
             }
           }
         ]
@@ -173,6 +173,7 @@
   "active": "8cf08ab95f0856e9",
   "lastOpenFiles": [
     "Obsidian_notes/Note/OS/Operating system structure UNIT 1.md",
+    "Obsidian_notes/Note/OS/System Programs.md",
     "Obsidian_notes/Note/OS/System calls.md",
     "Obsidian_notes/Note/OS/Operating System Services.md",
     "Obsidian_notes/Note/OS/OPERATING SYSTEM.md",
